@@ -1,2 +1,3 @@
-# FIFA-2018-
-ANALYSING THE FIFA 2018 DATA SET BY USING MATPLOTLIB , NUMPY , AND PANDAS LIBRARY. INCULCATING GRAPHICAL DEPICTION . 
+# Matplotlib Tutorial
+
+Jupyter notebook and data files to go along with my YouTube video on how to visualize data with the matplotlib library of Python.
